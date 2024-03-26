@@ -1,3 +1,7 @@
+# DayzWild
+
+**`Frontend Developerin`**
+
 - 👋 Hi, I’m @DayzWild
 - 👀 I’m interested in Frontend and Backend Development
 - 🌱 I’m currently learning JavaScript
